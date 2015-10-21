@@ -4,3 +4,4 @@ p35-d185
 db.sqlite3
 /static
 .DS_Store
+.idea
